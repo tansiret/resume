@@ -1,91 +1,92 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tan Siret Akıncı's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tan Siret Akıncı
+Student, Web developer, Sysadmin, Arch Linux user, FOSS advocate
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tansiretakinci@protonmail.com">tansiretakinci@protonmail.com</a>
+| <a href="http://yutyo.github.io">Website</a>
+  <a href="https://github.com/yutyo">GitHub</a>
+
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying, contributing to various Free and Open Source projects and Mediawiki subsites.
 
-### Specialized in
+### Programming and Scripting Languages
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Web development (JS, NodeJS, VueJS, HTML/CSS)
 
+System administration (Apache, Postgresql)
 
-### Research interests
+Unix-like systems (GNU/Linux and BSD-based distros)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Bash shell scripting
 
+#### Currently learning
+
+C, C++, Go
+
+### Human Languages
+
+Turkish (Native)
+
+English (Proficient)
+
+Italian (Upper Intermediate)
+
+Latin (Beginner)
+
+### Interests
+
+Web technologies, Blockchain, Free and open source software development, Unix-like operating systems, Wikipedia
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2013 - June 2017`
+__Yakacık Doğa Koleji, İstanbul.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2017 - June 2022`
+__Liceo Italiano, İstanbul.__
 
-- Sizar
+## Awards, Certificates and Events
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2015`
+Innovative solution reward, *FIRST*
 
-- Fellow
+`2017`
+Maker Faire 2017, *Maker Faire Türkiye*
 
+Saint Pulcherie Maker Faire, *Saint Pulcherie*
 
+`2019`
+Hacktoberfest 2019, *DigitalOcean*
 
-## Awards
+`2020`
+[Speaking about Decentralized Web at ÖzgürKon 2020](https://video.ozgurkon.org/videos/watch/b3566a91-d3bd-4b36-af29-2d2fa2590fe0)
 
-`2012`
-President, *Royal Society*, London, UK
+Hacktoberfest 2020
 
-Associate, *French Academy of Science*, Paris, France
-
-
+`2021`
+[TLDR Pages Maintainership](https://github.com/tldr-pages/tldr/issues/5702), *tldr.sh*
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Mediawiki
 
-### Journals
+[My contributions to English Wikipedia](https://xtools.wmflabs.org/ec/en.wikipedia.org/Comrade-yutyo)
+[My contributions to Turkish Wikipedia](https://xtools.wmflabs.org/ec/tr.wikipedia.org/Comrade-yutyo)
+[My contributions to English Wikibooks](https://xtools.wmflabs.org/ec/en.wikibooks.org/Comrade-yutyo)
+[My contributions to Turkish Wikibooks](https://xtools.wmflabs.org/ec/tr.wikibooks.org/Comrade-yutyo)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
+### TLDR
+[My contributions to TLDR](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3Ayutyo+)
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2021 -->
 
 
