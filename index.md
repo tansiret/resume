@@ -42,24 +42,24 @@ Web technologies, Blockchain, Free and open source software development, Unix-li
 
 ## Education
 
-`9/2017 - 6/2022`
+`September 2017 - June 2022`
 __Liceo Italiano, İstanbul.__
 
 ## Experience
 
-`2020 - Present`
+`April 2020 - Present`
 __TLDR Pages__, *Maintainer*
 
-`5/2019 - Present`
+`September 2019 - Present`
 __Dijital Özgürlük Hareketi__, *Founder*
 
-`9/2021 - 11/2021`
+`September 2021 - November 2021`
 __Biz Özgürüz Hareketi Foundation__, *Board Member*
 
-`7/2019 - 9/2019`
+`July 2019 - September 2019`
 __Designble__, *Co-Founder*
 
-`2017 - 4/2018`
+`July 2017 - April 2018`
 __Türkiye Teknoloji Takımı__, *Member*
 
 ## Awards, Certificates and Events
