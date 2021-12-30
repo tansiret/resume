@@ -36,6 +36,18 @@ Italian (Upper Intermediate)
 
 Latin (Beginner)
 
+### Software I Know to Use
+
+GIMP (GNU Image Manipulation Program)
+
+Libreoffice
+
+Blender
+
+AutoCAD
+
+Unix utilities (vim, awk, grep etc.)
+
 ### Interests
 
 Web technologies, Blockchain, Free and open source software development, Unix-like operating systems, Wikipedia
