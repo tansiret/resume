@@ -48,7 +48,7 @@ __Liceo Italiano, İstanbul.__
 ## Experience
 
 `April 2020 - Present`
-__TLDR Pages__, *Maintainer*
+[__TLDR Pages__](https://tldr.sh), *Maintainer*
 
 `September 2019 - Present`
 __Dijital Özgürlük Hareketi__, *Founder*
@@ -57,7 +57,7 @@ __Dijital Özgürlük Hareketi__, *Founder*
 __Biz Özgürüz Hareketi Foundation__, *Board Member*
 
 `July 2019 - September 2019`
-__Designble__, *Co-Founder*
+[__Designble__](http://designble.com), *Co-Founder*
 
 `July 2017 - April 2018`
 __Türkiye Teknoloji Takımı__, *Member*
