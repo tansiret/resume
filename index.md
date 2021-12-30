@@ -84,6 +84,9 @@ Hacktoberfest 2020
 `2021`
 [TLDR Pages Maintainership](https://github.com/tldr-pages/tldr/issues/5702), *tldr.sh*
 
+## Projects
+There are a lot so I suggest visiting my [GitHub page](https://github.com/yutyo)
+
 ## Publications
 
 ### Mediawiki
