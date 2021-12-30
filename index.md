@@ -20,7 +20,7 @@ Studying, contributing to various Free and Open Source projects, and Mediawiki s
 
 Web development (JS, NodeJS, VueJS, HTML/CSS)
 
-System administration (Apache, Nginx, MySQLPostgreSQL, SQLite)
+System administration (Apache, Nginx, PostgreSQL)
 
 Unix-like systems and command utilities (GNU/Linux and BSD-based distros)
 
@@ -46,7 +46,7 @@ Blender
 
 AutoCAD
 
-Unix utilities (vim, awk, grep etc.)
+Command-line utilities (vim, awk, grep, curl etc.)
 
 ### Interests
 
