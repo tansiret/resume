@@ -78,7 +78,7 @@ Hacktoberfest 2019, *DigitalOcean*
 `2020`
 [Speaking about Decentralized Web at ÖzgürKon 2020](https://video.ozgurkon.org/videos/watch/b3566a91-d3bd-4b36-af29-2d2fa2590fe0)
 
-Hacktoberfest 2020
+Hacktoberfest 2020, *DigitalOcean*
 
 `2021`
 [TLDR Pages Maintainership](https://github.com/tldr-pages/tldr/issues/5702), *tldr.sh*
