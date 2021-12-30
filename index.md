@@ -6,10 +6,9 @@ title: Tan Siret Akıncı's CV
 Student, Web developer, Sysadmin, Arch Linux user, FOSS advocate
 
 <div id="webaddress">
-<a href="tansiretakinci@protonmail.com">tansiretakinci@protonmail.com</a>
-| <a href="http://yutyo.github.io">Website</a>
-  <a href="https://github.com/yutyo">GitHub</a>
-
+<a href="mailto:tansiretakinci@protonmail.com">Email</a>
+<a href="http://yutyo.github.io">Website</a>
+<a href="https://github.com/yutyo">GitHub</a>
 </div>
 
 
@@ -23,7 +22,7 @@ Web development (JS, NodeJS, VueJS, HTML/CSS)
 
 System administration (Apache, Nginx, MySQLPostgreSQL, SQLite)
 
-Unix-like systems (GNU/Linux and BSD-based distros)
+Unix-like systems and command utilities (GNU/Linux and BSD-based distros)
 
 Bash shell scripting
 
@@ -43,24 +42,24 @@ Web technologies, Blockchain, Free and open source software development, Unix-li
 
 ## Education
 
-`September 2017 - June 2022`
+`9/2017 - 6/2022`
 __Liceo Italiano, İstanbul.__
 
 ## Experience
 
-`April 2020 - Present`
+`2020 - Present`
 __TLDR Pages__, *Maintainer*
 
-`May 2019 - Present`
+`5/2019 - Present`
 __Dijital Özgürlük Hareketi__, *Founder*
 
-`September 2021 - November 2021`
+`9/2021 - 11/2021`
 __Biz Özgürüz Hareketi Foundation__, *Board Member*
 
-`July 2019 - September 2019`
+`7/2019 - 9/2019`
 __Designble__, *Co-Founder*
 
-`July 2017 - April 2018`
+`2017 - 4/2018`
 __Türkiye Teknoloji Takımı__, *Member*
 
 ## Awards, Certificates and Events
