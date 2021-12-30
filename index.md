@@ -15,21 +15,17 @@ Student, Web developer, Sysadmin, Arch Linux user, FOSS advocate
 
 ## Currently
 
-Studying, contributing to various Free and Open Source projects and Mediawiki subsites.
+Studying, contributing to various Free and Open Source projects, and Mediawiki subsidiaries.
 
 ### Programming and Scripting Languages
 
 Web development (JS, NodeJS, VueJS, HTML/CSS)
 
-System administration (Apache, Postgresql)
+System administration (Apache, Nginx, MySQLPostgreSQL, SQLite)
 
 Unix-like systems (GNU/Linux and BSD-based distros)
 
 Bash shell scripting
-
-#### Currently learning
-
-C, C++, Go
 
 ### Human Languages
 
@@ -47,11 +43,25 @@ Web technologies, Blockchain, Free and open source software development, Unix-li
 
 ## Education
 
-`September 2013 - June 2017`
-__Yakacık Doğa Koleji, İstanbul.__
-
 `September 2017 - June 2022`
 __Liceo Italiano, İstanbul.__
+
+## Experience
+
+`April 2020 - Present`
+__TLDR Pages__, *Maintainer*
+
+`May 2019 - Present`
+__Dijital Özgürlük Hareketi__, *Founder*
+
+`September 2021 - November 2021`
+__Biz Özgürüz Hareketi Foundation__, *Board Member*
+
+`July 2019 - September 2019`
+__Designble__, *Co-Founder*
+
+`July 2017 - April 2018`
+__Türkiye Teknoloji Takımı__, *Member*
 
 ## Awards, Certificates and Events
 
@@ -74,19 +84,23 @@ Hacktoberfest 2020
 `2021`
 [TLDR Pages Maintainership](https://github.com/tldr-pages/tldr/issues/5702), *tldr.sh*
 
+## Projects
+There are a lot so I suggest visiting my [GitHub page](https://github.com/yutyo)
+
 ## Publications
 
 ### Mediawiki
 
 [My contributions to English Wikipedia](https://xtools.wmflabs.org/ec/en.wikipedia.org/Comrade-yutyo)
+
 [My contributions to Turkish Wikipedia](https://xtools.wmflabs.org/ec/tr.wikipedia.org/Comrade-yutyo)
+
 [My contributions to English Wikibooks](https://xtools.wmflabs.org/ec/en.wikibooks.org/Comrade-yutyo)
+
 [My contributions to Turkish Wikibooks](https://xtools.wmflabs.org/ec/tr.wikibooks.org/Comrade-yutyo)
 
 ### TLDR
-[My contributions to TLDR](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3Ayutyo+)
-<!-- ### Footer
 
-Last updated: December 2021 -->
+[My contributions to TLDR](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3Ayutyo+)
 
 
