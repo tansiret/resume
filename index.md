@@ -79,14 +79,14 @@ Hacktoberfest 2020
 ### Mediawiki
 
 [My contributions to English Wikipedia](https://xtools.wmflabs.org/ec/en.wikipedia.org/Comrade-yutyo)
+
 [My contributions to Turkish Wikipedia](https://xtools.wmflabs.org/ec/tr.wikipedia.org/Comrade-yutyo)
+
 [My contributions to English Wikibooks](https://xtools.wmflabs.org/ec/en.wikibooks.org/Comrade-yutyo)
+
 [My contributions to Turkish Wikibooks](https://xtools.wmflabs.org/ec/tr.wikibooks.org/Comrade-yutyo)
 
 ### TLDR
 [My contributions to TLDR](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3Ayutyo+)
-<!-- ### Footer
-
-Last updated: December 2021 -->
 
 
