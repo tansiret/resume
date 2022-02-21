@@ -59,14 +59,17 @@ __Liceo Italiano, İstanbul.__
 
 ## Experience
 
+`February 2022 - Present`
+[__Dijital Hürriyet Hareketi__](https://dijitalhurriyethareketi.github.io), *Founder*
+
 `April 2020 - Present`
 [__TLDR Pages__](https://tldr.sh), *Maintainer*
 
-`September 2019 - Present`
-__Dijital Özgürlük Hareketi__, *Founder*
-
 `September 2021 - November 2021`
 __Biz Özgürüz Hareketi Foundation__, *Board Member*
+
+`September 2019 - May 2020`
+__Mercode__, *Founder*
 
 `July 2019 - September 2019`
 [__Designble__](http://designble.com), *Co-Founder*
