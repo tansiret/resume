@@ -33,29 +33,32 @@ Turkish (Native)
 
 English (Proficient)
 
-Italian (Upper Intermediate)
+Italian (Proficient)
 
 Latin (Beginner)
 
 ### Interests
 
-Web technologies, Blockchain, Free and open source software development, Unix-like operating systems, Wikipedia
+Free and open source software/hardware development, Unix-like operating systems, Wikipedia
 
 ## Education
+
+`September 2022 - Present`
+__Politecnico di Torino, Turin, Italy.__, *Electronic Engineering*
 
 `September 2017 - June 2022`
 __Liceo Italiano, İstanbul.__
 
 ## Experience
 
+`April 2024 - Present`
+__CubeSat PoliTO__, *Hardware developer*
+
+`October 2023 - March 2024`
+__ASTRA PoliTO__, *Hardware developer*
+
 `April 2020 - Present`
 __TLDR Pages__, *Maintainer*
-
-`May 2019 - Present`
-__Dijital Özgürlük Hareketi__, *Founder*
-
-`September 2021 - November 2021`
-__Biz Özgürüz Hareketi Foundation__, *Board Member*
 
 `July 2019 - September 2019`
 __Designble__, *Co-Founder*
