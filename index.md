@@ -3,7 +3,7 @@ layout: cv
 title: Tan Siret Akıncı's CV
 ---
 # Tan Siret Akıncı
-Student, Web developer, Sysadmin, Arch Linux user, FOSS advocate
+Electronic Engineering student and Hardware/Software developer
 
 <div id="webaddress">
 <a href="mailto:tansiretakinci@protonmail.com">Email</a>
@@ -18,13 +18,13 @@ Studying, contributing to various Free and Open Source projects, and Mediawiki s
 
 ### Programming and Scripting Languages
 
+Low level programming (C/C++)
+
 Web development (JS, NodeJS, VueJS, HTML/CSS)
 
 System administration (Apache, Nginx, PostgreSQL)
 
-Unix-like systems and command utilities (GNU/Linux and BSD-based distros)
-
-Bash shell scripting
+Unix-like systems (GNU/Linux and BSD-based distros) and shell scripting
 
 ### Human Languages
 
@@ -32,7 +32,7 @@ Turkish (Native)
 
 English (Proficient)
 
-Italian (Upper Intermediate)
+Italian (Proficient)
 
 Latin (Beginner)
 
@@ -50,23 +50,26 @@ Command-line utilities (vim, awk, grep, curl etc.)
 
 ### Interests
 
-Web technologies, Blockchain, Free and open source software development, Unix-like operating systems, Wikipedia
+Free and open source software/hardware development, Unix-like operating systems, Wikipedia
 
 ## Education
+
+`September 2022 - Present`
+__Politecnico di Torino, Turin, Italy.__, *Electronic Engineering*
 
 `September 2017 - June 2022`
 __Liceo Italiano, İstanbul.__
 
 ## Experience
 
-`February 2022 - Present`
-[__Dijital Hürriyet Hareketi__](https://dijitalhurriyethareketi.github.io), *Founder*
+`April 2024 - Present`
+__CubeSat PoliTO__, *Hardware developer*
+
+`October 2023 - March 2024`
+__ASTRA PoliTO__, *Hardware developer*
 
 `April 2020 - Present`
-[__TLDR Pages__](https://tldr.sh), *Maintainer*
-
-`September 2021 - November 2021`
-__Biz Özgürüz Hareketi Foundation__, *Board Member*
+__TLDR Pages__, *Maintainer*
 
 `September 2019 - May 2020`
 __Mercode__, *Founder*
