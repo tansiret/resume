@@ -3,7 +3,7 @@ layout: cv
 title: Tan Siret Akıncı's CV
 ---
 # Tan Siret Akıncı
-Student, Web developer, Sysadmin, Arch Linux user, FOSS advocate
+Electronic Engineering student and Hardware/Software developer
 
 <div id="webaddress">
 <a href="tansiretakinci@protonmail.com">tansiretakinci@protonmail.com</a>
@@ -19,13 +19,13 @@ Studying, contributing to various Free and Open Source projects, and Mediawiki s
 
 ### Programming and Scripting Languages
 
+Low level programming (C/C++)
+
 Web development (JS, NodeJS, VueJS, HTML/CSS)
 
 System administration (Apache, Nginx, MySQLPostgreSQL, SQLite)
 
-Unix-like systems (GNU/Linux and BSD-based distros)
-
-Bash shell scripting
+Unix-like systems (GNU/Linux and BSD-based distros) and shell scripting
 
 ### Human Languages
 
