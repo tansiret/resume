@@ -7,8 +7,8 @@ Electronic Engineering student and Hardware/Software developer
 
 <div id="webaddress">
 <a href="mailto:tansiretakinci@protonmail.com">Email</a>
-<a href="http://yutyo.github.io">Website</a>
-<a href="https://github.com/yutyo">GitHub</a>
+<a href="http://tansiret.github.io">Website</a>
+<a href="https://github.com/tansiret">GitHub</a>
 </div>
 
 
@@ -55,10 +55,10 @@ Free and open source software/hardware development, Unix-like operating systems,
 ## Education
 
 `September 2022 - Present`
-__Politecnico di Torino, Turin, Italy.__, *Electronic Engineering*
+__Politecnico di Torino, Italy__, *Electronic Engineering undergrad*
 
 `September 2017 - June 2022`
-__Liceo Italiano, İstanbul.__
+__Liceo Italiano Statale Istanbul, Turkey__
 
 ## Experience
 
