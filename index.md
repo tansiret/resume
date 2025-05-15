@@ -14,18 +14,15 @@ Electronic Engineering student and Hardware/Software developer
 
 ## Currently
 
-Studying, contributing to various Free and Open Source projects, and Mediawiki subsidiaries.
+Studying at PoliTO, working as an Embedded Engineering head at a RISC-V student team called SemiTO-V Team at PoliTO, contributing to various Free and Open Source projects.
 
-### Programming and Scripting Languages
+### Skills
 
-Low level programming (C/C++)
-
-Web development (JS, NodeJS, VueJS, HTML/CSS)
-
-System administration (Apache, Nginx, PostgreSQL)
+Low level programming (C/C++, RV32 Assembly)
 
 Unix-like systems (GNU/Linux and BSD-based distros) and shell scripting
 
+Embedded development (Experienced with RV32/RV64 SoCs)
 ### Human Languages
 
 Turkish (Native)
@@ -36,21 +33,9 @@ Italian (Proficient)
 
 Latin (Beginner)
 
-### Software I Know to Use
-
-GIMP (GNU Image Manipulation Program)
-
-Libreoffice
-
-Blender
-
-AutoCAD
-
-Command-line utilities (vim, awk, grep, curl etc.)
-
 ### Interests
 
-Free and open source software/hardware development, Unix-like operating systems, Wikipedia
+RISC-V processor and software/firmware development, Unix-like operating systems and open source hardware/software development in general
 
 ## Education
 
@@ -61,18 +46,17 @@ __Politecnico di Torino, Italy__, *Electronic Engineering undergrad*
 __Liceo Italiano Statale Istanbul, Turkey__
 
 ## Experience
+`May 2025 - Present`
+__SemiTO-V Team PoliTO__, *Founder, Embedded Engineering head*
 
-`April 2024 - Present`
-__CubeSat PoliTO__, *Hardware developer*
+`April 2024 - November 2024`
+__CubeSat Team PoliTO__, *Hardware developer*
 
 `October 2023 - March 2024`
-__ASTRA PoliTO__, *Hardware developer*
+__ASTRA Team PoliTO__, *Hardware developer*
 
 `April 2020 - Present`
 __TLDR Pages__, *Maintainer*
-
-`September 2019 - May 2020`
-__Mercode__, *Founder*
 
 `July 2019 - September 2019`
 [__Designble__](http://designble.com), *Co-Founder*
@@ -102,7 +86,7 @@ Hacktoberfest 2020, *DigitalOcean*
 [TLDR Pages Maintainership](https://github.com/tldr-pages/tldr/issues/5702), *tldr.sh*
 
 ## Projects
-There are a lot so I suggest visiting my [GitHub page](https://github.com/yutyo)
+There are a lot so I suggest visiting my [GitHub page](https://github.com/tansiret)
 
 ## Publications
 
