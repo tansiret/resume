@@ -18,11 +18,11 @@ Studying at PoliTO, working as an Embedded Engineering head at a RISC-V student 
 
 ### Skills
 
-Low level programming (C/C++, RV32 Assembly)
+Low level programming (C/C++, RV32/RV64 Assembly)
 
 Unix-like systems (GNU/Linux and BSD-based distros) and shell scripting
 
-Embedded development (Experienced with RV32/RV64 SoCs)
+Embedded development (Experienced with ARM and RV32/RV64 SoCs)
 ### Human Languages
 
 Turkish (Native)
@@ -30,8 +30,6 @@ Turkish (Native)
 English (Proficient)
 
 Italian (Proficient)
-
-Latin (Beginner)
 
 ### Interests
 
@@ -47,7 +45,7 @@ __Liceo Italiano Statale Istanbul, Turkey__
 
 ## Experience
 `May 2025 - Present`
-__SemiTO-V Team PoliTO__, *Founder, Embedded Engineering head*
+[__SemiTO-V Team PoliTO__](https://semitov.github.io/), *Founder, Embedded Engineering head*
 
 `April 2024 - November 2024`
 __CubeSat Team PoliTO__, *Hardware developer*
