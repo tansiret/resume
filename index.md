@@ -14,15 +14,17 @@ Electronic Engineering student and Hardware/Software developer
 
 ## Currently
 
-Studying at PoliTO, working as an Embedded Engineering head at a RISC-V student team called SemiTO-V Team at PoliTO, contributing to various Free and Open Source projects.
+I am an Electronic Engineering undergrad at PoliTO, Student Ambassador at DeepComputing, Individual Member at RISC-V International and Team Leader at a RISC-V student team called SemiTO-V Team at PoliTO. I contributing to various Free and Open Source projects.
 
 ### Skills
 
 Low level programming (C/C++, RV32/RV64 Assembly)
 
-Unix-like systems (GNU/Linux and BSD-based distros) and shell scripting
+RTOS (Zephyr, NuttX, RT-Thread) and Unix-like GPOS user (GNU/Linux and BSD-based distros)
 
-Embedded development (Experienced with ARM and RV32/RV64 SoCs)
+Hardware development (Digital and analog circuit, PCB, footprint design)
+
+Embedded development (Experienced with ARM and RV32/RV64 MCUs/SoCs)
 ### Human Languages
 
 Turkish (Native)
@@ -33,7 +35,7 @@ Italian (Proficient)
 
 ### Interests
 
-RISC-V processor and software/firmware development, Unix-like operating systems and open source hardware/software development in general
+RISC-V based processors, Unix-like operating systems and open source hardware/software development in general
 
 ## Education
 
@@ -62,6 +64,16 @@ __TLDR Pages__, *Maintainer*
 `July 2017 - April 2018`
 __Türkiye Teknoloji Takımı__, *Member*
 
+
+## Projects
+
+### Hardware
+[RP2350 GPIO Expansion Card PCB](https://github.com/semitov/rp2350-gpio-card)
+[Astra Cansat PCB](https://github.com/liberocan/cansat-pcb)
+
+### Firmware
+[Super Mario Pico](https://github.com/tansiret/Super-Mario-Pico)
+
 ## Awards, Certificates and Events
 
 `2015`
@@ -83,8 +95,10 @@ Hacktoberfest 2020, *DigitalOcean*
 `2021`
 [TLDR Pages Maintainership](https://github.com/tldr-pages/tldr/issues/5702), *tldr.sh*
 
-## Projects
-There are a lot so I suggest visiting my [GitHub page](https://github.com/tansiret)
+`2025`
+[RISC-V Hackathon April 2025](https://www.linkedin.com/posts/tansiret_hackathon-codasip-accelerating-llm-with-mac-activity-7320469535592013824-6fen?utm_source=share&utm_medium=member_desktop&rcm=ACoAABi00xsB5j70c5iN7Dq4AGt3P6woGUigFIE), *RISC-V International*
+
+[DC-ROMA AI PC live demo at RISC-V Summit Europe 2025](https://youtu.be/CcdyoKgrWsE?si=SeYsHFBxaeinZ-Gx), *RISC-V International*
 
 ## Publications
 
